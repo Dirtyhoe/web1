@@ -1,0 +1,51 @@
+<style media="screen">
+  header h1 {
+    color : skyblue;
+  }
+  header {
+    padding-left: 20px;
+    border-bottom:1.5px solid skyblue;
+  }
+  body{
+    margin-left: 0px;
+    margin-right: 0px;
+        }
+  nav{
+    font-size:20px;
+    float:left;
+    padding-top: 20px;
+    border-right: solid 1.5px skyblue;
+    width: 200px;
+    height: 600px;
+    color: #00FF7F;
+  }
+  article{
+    float:left;
+    width : 600px;
+    padding-left: 20px;
+  }
+  nav ol{
+
+    list-style: none;
+    margin-top:0px;
+    padding-left:20px;
+
+  }
+
+  hr{
+    color: lightblue;
+  }
+
+  .button{
+    float:right;
+  }
+
+  .black{
+    background-color: black;
+    color:white;
+  }
+   header a:visited { text-decoration: none;    color :skyblue;
+ }
+ nav a:visited { text-decoration: none;    color : #00FF7F;
+}
+</style>
